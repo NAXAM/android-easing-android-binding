@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.Sephiroth.Easing.Droid</id>
+        <version>1.0.2</version>
+        <description>Xamarin Android Binding Library - Sephiroth Android Easing</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Sephiroth Android Easing</title>
+        <releaseNotes>Sephiroth Android Easing v1.0.2</releaseNotes>
+        <summary>Xamarin Binding Library - Sephiroth Android Easing</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xand-android-easing</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, easing, android-easing</tags>
+        <dependencies>
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.Sephiroth.Easing.Droid/bin/Release/Naxam.Sephiroth.Easing.Droid.dll" target="lib/MonoAndroid10/Naxam.Sephiroth.Easing.Droid.dll" />
+    </files>
+</package>

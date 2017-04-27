@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.Sephiroth.Easing", "Naxam.Sephiroth.Easing\Naxam.Sephiroth.Easing.csproj", "{204FEBEA-8C5B-4DAB-AF31-D22C12F0EF51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.Sephiroth.Easing.Droid", "Naxam.Sephiroth.Easing.Droid\Naxam.Sephiroth.Easing.Droid.csproj", "{204FEBEA-8C5B-4DAB-AF31-D22C12F0EF51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
